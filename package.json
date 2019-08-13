@@ -4,6 +4,7 @@
   "main": "index.js",
   "repository": {},
   "license": "MIT",
+  "proxy": "http://localhost:3001/"
   "dependencies": {
     "chai": "^3.5.0",
     "istanbul": "^0.4.5",
